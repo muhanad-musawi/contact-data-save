@@ -1,0 +1,29 @@
+form{ 
+  text-align: center;  
+  padding-bottom: 30px;
+  border-bottom:  2px solid #a57d38 ;
+}
+
+.addUserHTwoBtn{   
+  width: 100%;
+ 
+} 
+
+.addUserBtn{   
+  float: right; 
+  margin-right: 30px; 
+  background-color:#a57d38 ;
+color: #ffffff;
+}  
+
+.hTwo{   
+  margin-left: 50px;
+  text-align: center;
+}  
+.inputform{ 
+  display: flex; 
+  flex-direction: row; 
+justify-content: space-evenly;
+  align-items: center;
+}
+

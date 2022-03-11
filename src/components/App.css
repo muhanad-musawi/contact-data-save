@@ -1,0 +1,46 @@
+.loading{
+  min-height:100vh;
+  background-color: green;
+}
+
+
+/*$color-dark:rgba(36,45,52,1); 
+$color-gold:#a57d38; 
+$color-white:#ffffff;  
+$footer-color:#737373;*/
+h1{  
+  text-align: center;
+  color: #a57d38;  
+border-bottom: 3px solid rgba(36,45,52,1);
+}  
+.btnCenter{  
+  display: flex;  
+  justify-content: center;
+}
+.userAddBTN{    
+ 
+background-color:#a57d38 ;
+color: #ffffff;
+}
+
+.usersLength{  
+  color: #ffffff; 
+  text-align: center;  
+  font-size: 30px ; 
+  font-weight: bold;
+
+} 
+
+.usersLength span {  
+ margin: 0; 
+ padding: 0;  
+ color: #a57d38;
+ 
+} 
+
+.usersList{   
+  margin: 20px 0px ;
+  padding: 20px 10px;
+  
+  background-color:#242d34 ;
+}

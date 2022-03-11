@@ -1,0 +1,36 @@
+.usersFeld{     
+  
+  display: flex; 
+  justify-content: center; 
+  align-items: center;
+  margin: 10px 20px;
+  background-color:#242d34 ;
+}  
+.nameEmailFeld{  
+  
+  width: 70%;
+  background-color: red; 
+  
+} 
+.name{   
+  padding: 5px 10px;
+  background-color:#ffffff;
+ float: left;
+} 
+.email{   
+  padding: 5px 10px;
+  background-color:#ffffff;
+  text-align: center;
+   margin-left: 20px;
+}
+
+.editDeleteBTN{    
+  width: 20%;
+ 
+} 
+.btnFeld{    
+  color: #ffffff;
+  background-color: #a57d38  ;
+  padding:5px 10px; 
+  margin:0px 10px ;
+}
